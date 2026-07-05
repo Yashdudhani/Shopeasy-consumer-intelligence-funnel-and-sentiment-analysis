@@ -212,6 +212,8 @@ This project was developed as part of a portfolio demonstrating end-to-end data 
 
 **LinkedIn:** [Profile](www.linkedin.com/in/yash-dudhani-967674353)
 
+**Yash Dudhani** — [github.com/Yashdudhani](https://github.com/Yashdudhani)
+
 **Email:** yashdudhani1@gmail.com
 
 ---
