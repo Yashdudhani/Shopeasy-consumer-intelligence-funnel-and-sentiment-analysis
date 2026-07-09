@@ -210,7 +210,7 @@ This project was developed as part of a portfolio demonstrating end-to-end data 
 
 **Data Analyst:** Yash Dudhani 
 
-**LinkedIn:** [Profile](www.linkedin.com/in/yash-dudhani-967674353)
+**LinkedIn:** [Profile](https://www.linkedin.com/in/yash-dudhani-967674353/)
 
 **Yash Dudhani** — [github.com/Yashdudhani](https://github.com/Yashdudhani)
 
